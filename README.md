@@ -1,15 +1,21 @@
-# Vite Project Template(Blank)
-
-## Used Packages
-
-- Alloy Eslint Config
-  - (https://github.com/AlloyTeam/eslint-config-alloy)
-- eslint-plugin-simple-import-sort Eslint Config
-  - (https://github.com/lydell/eslint-plugin-simple-import-sort/)
-- unused-imports Eslint Config
-  - (https://www.npmjs.com/package/eslint-plugin-unused-imports)
 # antd-dashboard
-# antd-dashboard-1
-# antd-dashboard-2
-# antd-dashboard-2
-# antd-dashboard-2
+
+## Setup and Running the Project
+
+This project uses [pnpm](https://pnpm.io/) for package management. Follow these steps to set up and run the project:
+
+### 1. Install Dependencies
+
+To install the project dependencies, run the following command in your terminal:
+
+```bash
+pnpm install
+
+```
+
+### 2. Run
+
+```bash
+pnpm dev
+
+```

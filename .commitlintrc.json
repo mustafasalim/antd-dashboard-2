@@ -1,0 +1,7 @@
+{
+  "extends": ["@commitlint/config-conventional"],
+  "parserPreset": {},
+  "rules": {
+    "subject-case": [2, "always", ["lower-case"]]
+  }
+}

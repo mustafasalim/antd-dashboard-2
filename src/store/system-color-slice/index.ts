@@ -15,7 +15,7 @@ export interface ColorSlice {
 }
 
 const DEFAULT_COLOR_PROPS: ColorState = {
-  color: '#ffffff', // Varsayılan renk
+  color: '#1677ff', // Varsayılan renk
 };
 
 export const createColorSlice: StateCreator<
